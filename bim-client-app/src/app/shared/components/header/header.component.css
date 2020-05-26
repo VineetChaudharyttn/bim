@@ -1,0 +1,6 @@
+ul li{
+  list-style: none;
+}
+.right {
+  flex: 1 1 auto;
+}

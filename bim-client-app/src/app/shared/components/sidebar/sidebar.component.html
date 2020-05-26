@@ -1,0 +1,20 @@
+<mat-nav-list>
+  <div class="profile-card">
+<div class="header">
+  <h2><span>{{user.name}}</span></h2>
+  <h4>{{user.email}}</h4>
+</div>
+    <img src="{{user.profilePic}}" alt="">
+  </div>
+<mat-divider></mat-divider>
+<h2 matSubheader>Pages</h2>
+<mat-divider></mat-divider>
+    <div *ngIf="this.authService.isLoggedIn()">
+      <a mat-list-item [routerLink]="'/home'"> Home </a>
+      <a mat-list-item [routerLink]="'/issue-book'"> Issue Book </a>
+      <a mat-list-item [routerLink]="'/return-book'"> Return Book </a>
+      <a mat-list-item [routerLink]="'/history'"> History </a>
+
+    </div>
+</mat-nav-list>
+

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:2.1.13.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.1.13.BUILD-SNAPSHOT/92a9b3afd5f3722bc4ca235d885ab6f31110c41a/spring-boot-starter-tomcat-2.1.13.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.1.13.BUILD-SNAPSHOT/2344642bf4c84302b57fa6fe9f0d4232dd9490e/spring-boot-starter-tomcat-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.1.13.BUILD-SNAPSHOT/f83c28635877d3243f8e4ca4b4fd5b0eae304cd1/spring-boot-starter-tomcat-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.1.13.BUILD-SNAPSHOT/ac58926591fd1a052b734b0533e0e133684a7909/spring-boot-starter-tomcat-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.1.13.BUILD-SNAPSHOT/98338689e75a7bce38fb04abd74165a092aba3a8/spring-boot-starter-tomcat-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

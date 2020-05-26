@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:2.1.13.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.1.13.BUILD-SNAPSHOT/ef1ec533801a3f96980c9d39c5ae009e8e55e255/spring-boot-starter-data-jpa-2.1.13.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.1.13.BUILD-SNAPSHOT/819e061f3be5d3884905302fe581dc1adb1ef502/spring-boot-starter-data-jpa-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.1.13.BUILD-SNAPSHOT/8fb63296d4b38e8c39f8fde6f32c78dc5ce2e378/spring-boot-starter-data-jpa-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.1.13.BUILD-SNAPSHOT/61f91b9e20b8376f37da272b2ee5a05eaa75d109/spring-boot-starter-data-jpa-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.1.13.BUILD-SNAPSHOT/41fdae37a4880dbb8a155dc48de1ada89b915714/spring-boot-starter-data-jpa-2.1.13.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
